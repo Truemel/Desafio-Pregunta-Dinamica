@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Desafio Pregunta Dinamica</string>
+    <string name="hello_blank_fragment">Hello World</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="categoria">Categoria</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="truth">True</string>
+    <string name="falsedom">False</string>
+</resources>
